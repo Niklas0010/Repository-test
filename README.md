@@ -1,4 +1,4 @@
 # Repository-test
-Hej med dig
+Det her er en README
 
-Ny kommentar
+Jeg kommer til at opdaterer følgene, når jeg finder ud af hvordan det fungerer.
